@@ -30,7 +30,30 @@ H1 {
 }
 
 #img2 {
-    background-color: gray;
-    border: greenyellow 10px solid;
-    margin: 0px auto;
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+
+
+}
+
+
+.box2{
+
+    background-color: azure;
+    border: 3px solid greenyellow;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bolder;
+
+
+
+
+
+
+
+
+    
+
 }
