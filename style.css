@@ -24,19 +24,21 @@ H1 {
     text-align: center;
 }
 
-#img1 {
+.img1 {
     background-color: darkslategray;
     border: 10px solid green;
 }
 
-#img2 {
-    
-    margin-left: auto;
-    margin-right: auto;
-    width: 50px;
+.img2 {
+    background-color: rgb(27, 66, 66);
+    margin-left:left 30%
+    margin-right: right 30%
+    border: 10px solid darkgreen;
+
 
 
 }
+
 .box2{
 
     background-color: azure;
@@ -44,15 +46,25 @@ H1 {
     text-transform: capitalize;
     text-align: center;
     font-weight: bolder;
-    font-size: 50px;
-    margin-left: 40;
-    margin-right: 50px
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto; 
 
 
 
 }
 
+.inner{
 
+    display: flex;
+    background-color: rgb(255, 0, 170);
+
+}
+
+.menu{
+
+    background-color: coral;
+    text-align: center;
 
 
 
