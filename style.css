@@ -32,7 +32,8 @@ H1 {
 .img2 {
     background-color: rgb(27, 66, 66);
     border: 10px solid darkgreen;
-    
+    position: relative; right: 0px;
+
 
 
 
@@ -62,11 +63,11 @@ H1 {
 
 }
 
-.menu{
 
-    background-color: coral;
-    text-align: center;
+.body{
 
-
-
+    background-image: url:("http://wallpaper-gallery.net/blog/pillars-of-light-in-the-night-sky/pillars-of-light-in-the-night-sky-1.jpg");
+    background-repeat: no-repeat;
+    background-size:2000px 1500px;
 }
+
