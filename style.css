@@ -31,9 +31,8 @@ H1 {
 
 .img2 {
     background-color: rgb(27, 66, 66);
-    margin-left:left 30%
-    margin-right: right 30%
     border: 10px solid darkgreen;
+    
 
 
 
@@ -48,7 +47,9 @@ H1 {
     font-weight: bolder;
     font-size: 30px;
     margin-left: auto;
-    margin-right: auto; 
+    margin-right: auto;
+    padding:  40px;
+
 
 
 
@@ -57,7 +58,7 @@ H1 {
 .inner{
 
     display: flex;
-    background-color: rgb(255, 0, 170);
+    background-color: rgb(105, 102, 104);
 
 }
 
