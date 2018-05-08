@@ -63,11 +63,11 @@ H1 {
 
 }
 
-
-.body{
-
-    background-image: url:("http://wallpaper-gallery.net/blog/pillars-of-light-in-the-night-sky/pillars-of-light-in-the-night-sky-1.jpg");
-    background-repeat: no-repeat;
-    background-size:2000px 1500px;
+footer{
+text-align: center;
 }
 
+.bottomimg{
+    display: flex
+   align-content: center
+}
